@@ -10,3 +10,8 @@
 
 ### "ScanWebBasico" realiza uma análise simples de uma página web
 * A partir de uma URL fornecida, o script retorna o título do site, seu servidor web, a linguagem de programação usada, as URLs nas tags <a> da página, formulários e inputs (esses dois últimos não tão bem, por serem HTML mais complexo).
+
+### "Ex1SenhasSecList" Um treino para manipulação de arquivos, atenção ao Ex2
+
+### "Ex2ScanSubdom" opera uma manipulação de strings em URLs para tentar encontrar subdomínios
+* É mais eficiente em sites que começam com www
